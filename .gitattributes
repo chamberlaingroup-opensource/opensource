@@ -1,0 +1,4 @@
+asdk-5.4.1-cygwin-newlib-build-2614-i686.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+asdk-6.4.1-cygwin-newlib-build-2778-i686.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+asdk-6.4.1-linux-newlib-build-2773-i686.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+x264-stable.98ee9d2f215326feeb221a4434957fa586d55c18.tar.bz2 filter=lfs diff=lfs merge=lfs -text
